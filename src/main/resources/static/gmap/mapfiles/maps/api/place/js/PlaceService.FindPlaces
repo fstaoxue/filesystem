@@ -1,0 +1,920 @@
+/**/_xdc_._k7zr2z && _xdc_._k7zr2z( {
+   "html_attributions" : [],
+   "next_page_token" : "CoQC9wAAADW-IDvKHXWyUOHEzc5ZZgx4d185JJkPu1Wu-Ywmp_pRBNVZq5vICgnyRps7pRQnnl4mBa_vnmd-yvaGWaZHHk5omjEXEyIbSOkEyks5s2p-ghZgLE7EOv4RC-7mgNpgSJ_xnVtabNxi1-6pPL4IAhVAHXDX5Qhs5FN6IbpcXAXaFUSBi4rGFEuIh2W5nfRo4EnjZrWQcEwvQR87-nZYVOrUIkywOWD3XsNoPI8JXN4MLno0AV78HuMtRq3JP46_erTChWOhvYOyaP-xFLsQC3g0gDNQoWObEvZmAOaJNVvE8M6IXUjjEgaMrVaWiHCfY3tw_tI2RWLDWpQf4TsnNxsSEHaBp6g7M7SstyMxNrrnX6IaFPMvKH_0-ofVKoFy7MwhxSpoJ4xd",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7715374,
+               "lng" : -122.4342922
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.77292918029149,
+                  "lng" : -122.4329516697085
+               },
+               "southwest" : {
+                  "lat" : 37.77023121970849,
+                  "lng" : -122.4356496302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "f217867230189ff02fc2301f38abd8d6753f1305",
+         "name" : "Costumes on Haight",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1728,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101351655161627417433/photos\"\u003eErnest French\u003c/a\u003e"
+               ],
+               "raw_reference" : {
+                  "fife_url" : "https://lh4.googleusercontent.com/-85Af8gSAtrg/V-b0ZbXTawI/AAAAAAAALQY/IQB5Wrtz9r4Z9VVadzpLTkbvAtWuTojZQCJkC/k/"
+               },
+               "width" : 3072
+            }
+         ],
+         "place_id" : "ChIJt3PIE6aAhYARA7-B77dMxpI",
+         "rating" : 3.9,
+         "reference" : "CmRSAAAAyYOKr8qK1eBYNt21jUuwuFgL4n50oq6LcU7KVPwAroUj9abmJ8nmdDOHB9nDiAMTgu9f_9nn7EO1xDJgjdvWeDAL23WvGggTifZAM9aCiI13S8KMMPG-QaolFznBCBv2EhBEyV49FvRQVS0CAAoQycJbGhSfd4opmqaMri92DzSCuxkEqEKZRQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hair_care",
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "735 Haight Street, San Francisco"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.776466,
+               "lng" : -122.4378324
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7778001802915,
+                  "lng" : -122.4365971197085
+               },
+               "southwest" : {
+                  "lat" : 37.7751022197085,
+                  "lng" : -122.4392950802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "7cfa71df40122b78052b3bc48accea1c0d63b3ac",
+         "name" : "The Mill",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115713800653796670414/photos\"\u003eInna Gritsko\u003c/a\u003e"
+               ],
+               "raw_reference" : {
+                  "fife_url" : "https://lh5.googleusercontent.com/-NCcYCrAM3HE/WENth5haOuI/AAAAAAAAADc/AzQdZWkITlcfKeXq99f398f0EqURRPMywCLIB/k/"
+               },
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJVzS3LbCAhYAR6Dw2KqlhWhg",
+         "price_level" : 1,
+         "rating" : 4.4,
+         "reference" : "CmRRAAAA2Sgel2Eh7STT2L-xk-YBOisL3WdSIM5KM-yNxhJ23gRlNWGbCZ1SIxK4C1y_H1eLWM5NGb1QYyGypznOX0J-VawBIpyggXF0OjlKpt2fY8bbVaQnQVIuFdYIGMR5fO8jEhCYz0oks_QCPNgk17zXqxGzGhQkMsz7Rgqqz6oeBvBZDkm8AMQGyw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "736 Divisadero Street, San Francisco"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7727553,
+               "lng" : -122.4375881
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7741147302915,
+                  "lng" : -122.4361569697085
+               },
+               "southwest" : {
+                  "lat" : 37.7714167697085,
+                  "lng" : -122.4388549302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "1b202c7f4c0c595719db4d96806409fe7ed6299a",
+         "name" : "Cookin'",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106870112401137592668/photos\"\u003eCraig Smart\u003c/a\u003e"
+               ],
+               "raw_reference" : {
+                  "fife_url" : "https://lh6.googleusercontent.com/-wr9cMSf0Yb8/VTQq2Qi3C0I/AAAAAAAAAHo/sEyF8J4huUIA92Q8rUkTpUHlJzElP6UQQCJkC/k/"
+               },
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJV4BaF6-AhYARLDVomfQaTA4",
+         "rating" : 3.9,
+         "reference" : "CmRRAAAAdvpnFG4wDLQr162ozqYlPuQZlCjpUuyAdOVom7dKtVch5sJmB0eEZft4xmb7A1mfxDpX7EDmsyPXiHuEp1320M1fHSt0Y89zmccK81KjsdqFdRJKpDRbeh6vjC2mfHOZEhAHKgAm9tVqVRYb61dSyJSKGhSLOFWdzOWv0ULP1F8DvtJncnKlqg",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "point_of_interest", "establishment" ],
+         "vicinity" : "339 Divisadero Street, San Francisco"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7730052,
+               "lng" : -122.4375768
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7743605802915,
+                  "lng" : -122.4361747697085
+               },
+               "southwest" : {
+                  "lat" : 37.7716626197085,
+                  "lng" : -122.4388727302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "59505be2d0673e3a6310b1dd914e2c9f93bfd5b7",
+         "name" : "Vinyl Coffee and Wine Bar",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117501655207882886155/photos\"\u003eKen Maikish\u003c/a\u003e"
+               ],
+               "raw_reference" : {
+                  "fife_url" : "https://lh3.googleusercontent.com/-lYcH1TuuBm0/V-03iL5FQII/AAAAAAABKTE/aRbK5Whk0Jw03UCwOqWiK3EFeXrmSRr5ACLIB/k/"
+               },
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJY9qmGq-AhYARrULv5cUR7kw",
+         "price_level" : 1,
+         "rating" : 4.2,
+         "reference" : "CmRRAAAAZLY0JUjuB4tWGIBtFJfKBv56uksFDBgKqeQic1RVH1SSPLWai_vCP9TaO8E8-Ebvup-aj3sxMm_gB8yGvugNhfJgOPiZvYiuNAD8wXJ2J4GkQQYka53F5dl52PWRRkucEhCAcxrHLgZtZb_eITZNIZFDGhQWREmxduKhPO0YYg8VmcqVdYrsIA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "bar",
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "359 Divisadero Street, San Francisco"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7726832,
+               "lng" : -122.4376071
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7740447302915,
+                  "lng" : -122.4361595697085
+               },
+               "southwest" : {
+                  "lat" : 37.7713467697085,
+                  "lng" : -122.4388575302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "7e241c09ac09a5671c84015c2c1e4c6552fb3fab",
+         "name" : "Gamescape",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110340854196820131676/photos\"\u003eHeather Lum\u003c/a\u003e"
+               ],
+               "raw_reference" : {
+                  "fife_url" : "https://lh6.googleusercontent.com/-GB5Pb8F-fNs/V0jEQN16_VI/AAAAAAAAqWs/p9ltnPCmxFMKYJvJUwDK1SqECKVuvBbtACJkC/k/"
+               },
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJhZVlF6-AhYARkp7itcMy8hI",
+         "rating" : 4.7,
+         "reference" : "CmRRAAAA-A7CR0BBtxh5G73F7Pj7hHAsDvvnMnH9ZqlH5tjEyWmmOymr2wKdbZ5kqR9_OnUe0Xiqg4qI_v0HK4BG2MJKGBZqd2sd6czwUcvZK4_3NBj-xIMdVSAcKaZkKvMwjII_EhAbC1QxTDHprLcUWTJi-65DGhRHNxoOSz8A-eVk6jzoEXbv9eY9jQ",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "point_of_interest", "establishment" ],
+         "vicinity" : "333 Divisadero Street, San Francisco"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7730569,
+               "lng" : -122.4388332
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7743877802915,
+                  "lng" : -122.4376256697085
+               },
+               "southwest" : {
+                  "lat" : 37.7716898197085,
+                  "lng" : -122.4403236302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "a92f18217a2d4788453a2b7e59b9167787c142e2",
+         "name" : "Falletti Foods",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1944,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104565015031881095976/photos\"\u003eDavid Lansdale\u003c/a\u003e"
+               ],
+               "raw_reference" : {
+                  "fife_url" : "https://lh5.googleusercontent.com/-PjTz13tOzGk/V5vje9axxRI/AAAAAAAAAAY/CTia4XpkVKAGeq3njCGFd2qO9jGf67_EwCJkC/k/"
+               },
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJ80AB966AhYARb2wA6yvKsNY",
+         "rating" : 4.3,
+         "reference" : "CmRSAAAAOrCz3tt151uHKV3619kFMcH-Fw4SE3IpxDuyugd9z-TEAsKKxrKQl_fvQDrq0b2WB3y6RIVLdHi6Q4BAL9qiXsN4oDt8VO_lOt9KSeMJp3bqgjf1thqJeo8gqopqpubtEhDLf85rc9qYEGBqcVjRpF9bGhR0P8DSz1WXryiKqAogW0t3YzQSWg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "308 Broderick Street, San Francisco"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.774798,
+               "lng" : -122.437463
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7761306302915,
+                  "lng" : -122.4362461697085
+               },
+               "southwest" : {
+                  "lat" : 37.7734326697085,
+                  "lng" : -122.4389441302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "14838314274c35d92aa36dc4329687e3c1ca5ca1",
+         "name" : "Bi-Rite Market",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105840042361284844803/photos\"\u003each ・\u003c/a\u003e"
+               ],
+               "raw_reference" : {
+                  "fife_url" : "https://lh3.googleusercontent.com/-yTfTPL6yVIw/V6soEnkHMgI/AAAAAAAAMZ8/2yV4AUhYjskFyFX0RnVjHVKkhPX9sIQzACJkC/k/"
+               },
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ49sQuK-AhYARM6U646SA12Y",
+         "price_level" : 1,
+         "rating" : 4.6,
+         "reference" : "CmRRAAAAdZVL6x4dGNzT0qOum16SzI6uulrYUQmBexedBrtRuiLEEEN8-HlaA8Occ0c17vIhH74f03tkWg34MW6b7gGuMBi6L6DydXosXxSxDUkUSXj2NAS1OnkWiDTz_Bnzc7OUEhAkRsGeL9j6_Dy6kNx14MGyGhRfKZ50c_WIep0PmT_eOIfz_1vRyg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "550 Divisadero Street, San Francisco"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7724021,
+               "lng" : -122.4374455
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7737571302915,
+                  "lng" : -122.4360488697085
+               },
+               "southwest" : {
+                  "lat" : 37.7710591697085,
+                  "lng" : -122.4387468302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "c89f65aed5cf7d1e2c6b0fa0ef88c749a323094e",
+         "name" : "Comix Experience",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108971720707844619741/photos\"\u003eSarah Blake\u003c/a\u003e"
+               ],
+               "raw_reference" : {
+                  "fife_url" : "https://lh5.googleusercontent.com/-XHEE4grABDA/WHUSrmIxkRI/AAAAAAAAXJM/XKyugTwhUWohECrgLb6QhASCqUAhVdS9ACLIB/k/"
+               },
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJUxohPa-AhYARv4YulzAAQ1w",
+         "rating" : 4.2,
+         "reference" : "CmRRAAAA79J5OesI_B9IhR4H8rdmG-bx_Kft6AVBk2RoWQpP3v7nuiHB-dd32AhWTVzRiDUiDDJCODFnNt2YbTHCvhZ5UVbvr-0GKee6-G9yzfhxgASJriP6_8I6emKaKrzEktlxEhCTE4r3T0iSDld6nhW2-YhaGhTelsk_2oN1Ew8Pv0ItJfx33IBu_g",
+         "scope" : "GOOGLE",
+         "types" : [ "book_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "305 Divisadero Street, San Francisco"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7716044,
+               "lng" : -122.4329646
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.77304618029149,
+                  "lng" : -122.4316345697085
+               },
+               "southwest" : {
+                  "lat" : 37.7703482197085,
+                  "lng" : -122.4343325302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "69b48f23bda1226cc1b461aa064d744f095bcb42",
+         "name" : "San Francisco Bicycle Ballet",
+         "place_id" : "ChIJySbmZqaAhYAReiV4OthdhOY",
+         "reference" : "CmRSAAAA-QtaFh5hcnh1cCyhhWEwaOvNSgE38wL7ont09Ymvqllc_DMtY8ocfo2uMzcsSwjCXvqGCZIJIuOaLJ55GfnUvlY2U04ZM3F-y_LU3lvQ_pTYDPh5_05Fuq538B135T6mEhBc9C25yfzArjQALPgAFUNsGhS486UfGbODsNWBll8nlPzgq_9CYg",
+         "scope" : "GOOGLE",
+         "types" : [ "bicycle_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "655 Haight Street, San Francisco"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7745602,
+               "lng" : -122.4375285
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7758996302915,
+                  "lng" : -122.4362567197085
+               },
+               "southwest" : {
+                  "lat" : 37.7732016697085,
+                  "lng" : -122.4389546802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "134e8c605c27138c81561fd7da95b926984c59d0",
+         "name" : "The Postal Chase",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJm541t6-AhYARPCoz1yEIym4",
+         "rating" : 2.9,
+         "reference" : "CmRRAAAATfhNhSh-iQAd0_cNPcjjptjJCmX0AgkpcyV-rBp0KaA4KxNq8MVQ1VobxfciNH_9dflW2EX1fy8Zv71XrOdlK9XMiXxLmfC2DUh84aGG8tgpa0B7UViwRP4UHsiOuUDUEhDi7sRAIQtzSiDK1WZX9Qo-GhQYyus7AsBEynBWZep89Mt_DgBY2A",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "point_of_interest", "establishment" ],
+         "vicinity" : "530 Divisadero Street, San Francisco"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7719943,
+               "lng" : -122.4306343
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7733976802915,
+                  "lng" : -122.4292951197085
+               },
+               "southwest" : {
+                  "lat" : 37.7706997197085,
+                  "lng" : -122.4319930802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "de9c92329e662dfe412eedbb852cd29511840824",
+         "name" : "Haight Fillmore Whole Foods Co.",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2992,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117829123247413605514/photos\"\u003eRoque López\u003c/a\u003e"
+               ],
+               "raw_reference" : {
+                  "fife_url" : "https://lh5.googleusercontent.com/-su4rvYQovCU/V84QRTHgzcI/AAAAAAAApPY/7KTp9DAEIHE7BZVzQ1MQKTKkXXOKxrMCgCJkC/k/"
+               },
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJx4JUxqaAhYARck8UGIUZLBk",
+         "rating" : 3.7,
+         "reference" : "CmRRAAAApx1-DsmW6ZSde8ubQ9Qhxi8EZjE-2Zzsyvqv1THYWLg8H3C-waqPA8juZZegfmNNzvnPJUtnp5ehhapXbVOWAvbYp4Dk2uRKbCuglWYW0uSRMIUEbgEAdVS5mkM6kr1vEhAplajlBMukPSk3PMCp07_uGhRLj4Em7nE9l93Qn1PKy7Pw-sEC7w",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "501 Haight Street, San Francisco"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7718471,
+               "lng" : -122.4316441
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.77325533029149,
+                  "lng" : -122.4303083697085
+               },
+               "southwest" : {
+                  "lat" : 37.7705573697085,
+                  "lng" : -122.4330063302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "1d643f4f4471fb8bc830930f36d76bba03be65b6",
+         "name" : "Idle Hand Tattoo",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 949,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108748488510766978979/photos\"\u003erachel clark\u003c/a\u003e"
+               ],
+               "raw_reference" : {
+                  "fife_url" : "https://lh6.googleusercontent.com/-1uTgO6zOHEI/VPyPb-6DsoI/AAAAAAAAAWQ/NRdKEIhZzc4sBfScCwAmPnUihozVMqjOgCJkC/k/"
+               },
+               "width" : 1265
+            }
+         ],
+         "place_id" : "ChIJT2Mvk6aAhYARU8lSHQR2A8k",
+         "rating" : 4.3,
+         "reference" : "CmRSAAAAkHcNr0jIjgcWjLG5Jt4QD8gvRwf6VjRk-RlAYoUXQ3oI4KIKlwEOPLH1szB31PBf0faldWf8ICDOnv1WIC3vIlMQANfYYqTPW8hUvsSrmA5A8luKmxsgKccwyphy1wQOEhBuLNAReeLVEnqGVU35egtdGhTPqsek82thTdu5hWxvyWaIHLvycA",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "point_of_interest", "establishment" ],
+         "vicinity" : "575 Haight Street, San Francisco"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.77380369999999,
+               "lng" : -122.4383099
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.77524793029149,
+                  "lng" : -122.4369811197085
+               },
+               "southwest" : {
+                  "lat" : 37.7725499697085,
+                  "lng" : -122.4396790802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "364f3696cc262195fcfe9b987edf28898d3a90ee",
+         "name" : "Panhandle Guitars",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101495021367761443234/photos\"\u003eWalkerfive SFO\u003c/a\u003e"
+               ],
+               "raw_reference" : {
+                  "fife_url" : "https://lh3.googleusercontent.com/-Mnu3GAQgpTI/UbEoo3B1LtI/AAAAAAAAFX0/TfJHDImvZ0gmbpuO_kM17btd_H-OvP7nACJkC/k/"
+               },
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJ3acdU66AhYARSebyvlacrWw",
+         "rating" : 4.6,
+         "reference" : "CmRRAAAAaUD_cGfj9fWQjh0XKiC59cezYza-rPOrLKC9wkvlZ_IQn9VJrfCj8qTtr6GDwkKaUDenTgcsDYdaZHXuUq9ILrllu8siD431APi1SGtd9CN8qGRWPARvxhXoz3AvblmCEhApoGqNdMrdYmgClgzJcP4YGhRvTtQi0KPLifa1rDAkcqQWCqZEIA",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "point_of_interest", "establishment" ],
+         "vicinity" : "1221 Fell Street, San Francisco"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.772089,
+               "lng" : -122.432434
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.77332768029149,
+                  "lng" : -122.4310624697085
+               },
+               "southwest" : {
+                  "lat" : 37.7706297197085,
+                  "lng" : -122.4337604302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "78a17bf58c5a649184f1d708b9e65a484160efdb",
+         "name" : "Life",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2447,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113083612225126166888/photos\"\u003eLife\u003c/a\u003e"
+               ],
+               "raw_reference" : {
+                  "fife_url" : "https://lh3.googleusercontent.com/-AnmpgzCoFRs/V5FU225oZoI/AAAAAAAAAB0/3gfAMKuhymU5adYbaLHDKbf5RgSi84xAgCJkC/k/"
+               },
+               "width" : 2447
+            }
+         ],
+         "place_id" : "ChIJKaSmiaaAhYARxLzGTqRCanI",
+         "rating" : 4.9,
+         "reference" : "CmRRAAAAgt6oMNL_FSafFhS-21xno04Vv5NYg6ptvIut4IAOc97ZCww-QyY1kRmp01XnNGVZXR5KBB3QXJ0fLSIne5-bzPm4JYg0VxwSL3yQk8bys6jYBPSwRys_EngTqaAjE1fREhAze-awigaeAp-ezEDsSaiMGhQsp5afmciOhI6pQAz3Nd5O8q6S6Q",
+         "scope" : "GOOGLE",
+         "types" : [
+            "jewelry_store",
+            "health",
+            "clothing_store",
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "604 1/2 Haight Street, San Francisco"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7717001,
+               "lng" : -122.4369282
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7730376302915,
+                  "lng" : -122.4356693197085
+               },
+               "southwest" : {
+                  "lat" : 37.7703396697085,
+                  "lng" : -122.4383672802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "b78bd9a2e2593dda13c5be9ed264e91726adc60f",
+         "name" : "City Copy and Print Center",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105081341155052243742/photos\"\u003eCity Copy and Print Center\u003c/a\u003e"
+               ],
+               "raw_reference" : {
+                  "fife_url" : "https://lh4.googleusercontent.com/-dmNzIdNmb7U/Vs3l-MiVsOI/AAAAAAAAAC4/V4RHiesEKpcfUiDud2vhM7361So7bpnQACLIB/k/"
+               },
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ2a3MNa-AhYARsqa8xH0o1SM",
+         "rating" : 4.5,
+         "reference" : "CmRRAAAAJpRDyGNE2pK-xpGA19zL-q8d6udFDnlDbfq-t1fFSvHmknEjg5NPRRnsVv3C0yoHpHEcEYbq8D6choG2IlYuwOgt2qhyOBZcNqRB9ag1wFElaNPVcleg_8y3y82urLv5EhBJh5Jlpvs3aRQZOC04NdNuGhRVrgo0SbqzEyVtqyKAeIk0g9vXBg",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "point_of_interest", "establishment" ],
+         "vicinity" : "270 Divisadero Street, San Francisco"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7718272,
+               "lng" : -122.4305126
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.77318253029151,
+                  "lng" : -122.4291164697085
+               },
+               "southwest" : {
+                  "lat" : 37.77048456970851,
+                  "lng" : -122.4318144302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "063e49612968a40c6b60939da79c82eb523c7512",
+         "name" : "Zip Zap Hair Salon",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 256,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106594807296550953212/photos\"\u003eZip Zap Hair Salon\u003c/a\u003e"
+               ],
+               "raw_reference" : {
+                  "fife_url" : "https://lh4.googleusercontent.com/-Xla72ujj8mE/UusDfrroq0I/AAAAAAAAAFY/juxGjeP4wqwucUm2_Xq69qzBaxC-J796gCJkC/k/"
+               },
+               "width" : 256
+            }
+         ],
+         "place_id" : "ChIJB2OYxaaAhYAR-0tSd-XXWyc",
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "CmRRAAAAuncAuhfD6MTeG7eVuywWEBw5awGyQMYtXMFOlTlFnhyJ4-5-kdmsKsP14l5dnN09Ir_eRv8_lk7nzl6KltDuFR1I-mjNnBy-zLNXx-569eV3JPIvFmNLH4Wr4lKkrnPqEhD30fPDBlwXVRdtbjabZi79GhTn1lOYwJO0o00YsfKnCZ9Q-UzRPA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "beauty_salon",
+            "hair_care",
+            "health",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "245 Fillmore Street, San Francisco"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7741813,
+               "lng" : -122.437861
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7755401802915,
+                  "lng" : -122.4364334697085
+               },
+               "southwest" : {
+                  "lat" : 37.7728422197085,
+                  "lng" : -122.4391314302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "ef78344079a712f9ae41d56c8107eff81652bfc9",
+         "name" : "New Star-Ell Liquor",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105892815192112299217/photos\"\u003eNicolas Delaeter\u003c/a\u003e"
+               ],
+               "raw_reference" : {
+                  "fife_url" : "https://lh3.googleusercontent.com/-Noaf0zntnAc/WNO8gmn8wiI/AAAAAAAABl4/rc27ORp7OKsKqMbd0HIo0xLj32gdqUebwCLIB/k/"
+               },
+               "width" : 2340
+            }
+         ],
+         "place_id" : "ChIJXQ4Ksq-AhYARb2P3X4uQsKU",
+         "rating" : 4.1,
+         "reference" : "CmRSAAAAHSVu9Py3-AxJw7fWuyE4zpCe6MAxEiJ9lrzZubdbRwE8U3bjfJykImop_FsT2mbm5ia7um5xAQeBTnEVpVam6_mE_fsdlEDC6Gp2FH9CCBW3zIxjwVgM6yJY830Zf03UEhBkt1yWfJaJ6qgoe1wWu-dYGhQpPQtT9XlK8Rt1SMfyPwevapc80Q",
+         "scope" : "GOOGLE",
+         "types" : [
+            "liquor_store",
+            "bar",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "501 Divisadero St, San Francisco"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7771984,
+               "lng" : -122.4383606
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.77854773029149,
+                  "lng" : -122.4370089697085
+               },
+               "southwest" : {
+                  "lat" : 37.77584976970849,
+                  "lng" : -122.4397069302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "79df681af61b570db3d520984fe002fffc3aa72b",
+         "name" : "Everlasting Tattoo",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 972,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110667248466086656087/photos\"\u003eJoshua Keihl\u003c/a\u003e"
+               ],
+               "raw_reference" : {
+                  "fife_url" : "https://lh4.googleusercontent.com/-hIanmUsObs8/UGdTwRSXl3I/AAAAAAAAdxg/FKZGEVWk5IEtHPHCgN-Xd1tbFcMww8ZIQCJkC/k/"
+               },
+               "width" : 1296
+            }
+         ],
+         "place_id" : "ChIJrXvxtLGAhYARuS4Nkali__M",
+         "rating" : 4.4,
+         "reference" : "CmRSAAAAWK4U2BmZJ_AoSLPlTld3tnGz6LUZL9ovGheKB1JocPdcv2qUnCd7kaC0CxSzGFcQ7LfANuyNBppcFWyjcT9HBCwzzrhj0yAJP2d47tUR5PqT-olyAkOEL8mXjdgPvOX6EhC_2wmysnn_hRtWd8HrgrX2GhQ64Wmt-oAG8nUjvIMQjyg2adnSwA",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "point_of_interest", "establishment" ],
+         "vicinity" : "813 Divisadero Street, San Francisco"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.77517700000001,
+               "lng" : -122.437517
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.77650738029151,
+                  "lng" : -122.4363108697085
+               },
+               "southwest" : {
+                  "lat" : 37.77380941970851,
+                  "lng" : -122.4390088302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "550151e74b519bcac6f036b894d8ef0d80eb0805",
+         "name" : "Rare Device",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100014332484104825649/photos\"\u003eTom Hilfer\u003c/a\u003e"
+               ],
+               "raw_reference" : {
+                  "fife_url" : "https://lh4.googleusercontent.com/-Y7OtEArjq_k/V6Ooi4HFQDI/AAAAAAAACYs/Ky-O_Id-gvYrULMoijN_AR8SXTqEunKCACJkC/k/"
+               },
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJ3RnGA6CAhYARV2p1qDRTMtA",
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "CmRSAAAAw5PV_ZtBFKXU5KrKGqdmlCbHhcs8aRieYzeEQtuJarXqTRDQ89LFxg6IpMEpgV100kclgnGyKnz7ZtYyXkHMybFCL3ScNcdJ9_weaRnOQTatNhjozJfo4BzOQEiDdPMaEhD_2D_tQ-KWgcKcaOsFGz1EGhRM47pcfzm2QCyotEE0RYLtjl-R8A",
+         "scope" : "GOOGLE",
+         "types" : [
+            "art_gallery",
+            "jewelry_store",
+            "clothing_store",
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "600 Divisadero Street, San Francisco"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7730459,
+               "lng" : -122.4371599
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7743810302915,
+                  "lng" : -122.4359208197085
+               },
+               "southwest" : {
+                  "lat" : 37.7716830697085,
+                  "lng" : -122.4386187802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "ca6b627ec609e9f5b1853765faf10d1f639c8f0b",
+         "name" : "Kelly-Moore Paints",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101719210720673689281/photos\"\u003eKelly-Moore Paints\u003c/a\u003e"
+               ],
+               "raw_reference" : {
+                  "fife_url" : "https://lh6.googleusercontent.com/-9TUIm2_9azA/VvMTmqyMl0I/AAAAAAAAABE/kgTWA3FU53cbPisf4Z31dki6phWEFPEZQCLIB/k/"
+               },
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJv8SgEa-AhYAROwoG5MXlS2Y",
+         "price_level" : 2,
+         "rating" : 2,
+         "reference" : "CmRRAAAA4fhGaH1uf1t5F2pkY_LluTnGK6cqLDMiS4frf2kWlDiWK7evpvAKNKuWym-Hjf-_IvaC67ztSgpgHHfOcBlV9Yo7grq0ZZhHSAOrnDyxTqZ7Ecq4DXDII1egt_YaJxTdEhDr7Sm2-wlWnaixAHdtwKWOGhSA29OSQlPHXv4qrr3p9TABlFIa7w",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hardware_store",
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "364 Divisadero Street, San Francisco"
+      }
+   ],
+   "status" : "OK"
+}
+ )

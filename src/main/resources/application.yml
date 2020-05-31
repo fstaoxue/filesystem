@@ -1,0 +1,31 @@
+### 服务器配置
+server:
+  port: 8190
+  servlet:
+    context-path: /filesystem
+spring:
+  freemarker:
+    template-loader-path: classpath:/templates
+    suffix: .ftl
+    charset: utf-8
+    content-type: text/html
+    request-context-attribute: request
+  servlet:
+    multipart:
+      max-request-size: 200MB
+      max-file-size: 200MB
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://114.55.64.105:3306/filesystem?useUnicode=true&characterEncoding=utf-8&useSSL=true&serverTimezone=UTC
+    username: root
+    password: TXF19950605..
+  jpa:
+    show-sql: true
+
+project:
+  host: 114.55.64.105
+  port: 22
+  username: nginx
+  password: nginx
+
+
