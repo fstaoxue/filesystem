@@ -12,18 +12,18 @@ demo练习项目
 http://114.55.64.105:8082/filesystem/index
 
 
-上传代码样例说明
-![Image text](https://github.com/fstaoxue/filesystem/blob/master/filesystem-img/info.png)
+上传代码样例说明  
+![Image text](filesystem-img/info.png)
 
-上传页面
+上传页面  
 ![Image text](https://github.com/fstaoxue/filesystem/blob/master/filesystem-img/upload.png)
 
-下载页面
+下载页面  
 ![Image text](https://github.com/fstaoxue/filesystem/blob/master/filesystem-img/download.png)
 
-打点页面
+打点页面  
 ![Image text](https://github.com/fstaoxue/filesystem/blob/master/filesystem-img/showpoint.png)
 
-坐标系转换页面
+坐标系转换页面  
 ![Image text](https://github.com/fstaoxue/filesystem/blob/master/filesystem-img/convert.png)
 
