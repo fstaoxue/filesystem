@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * 获取Spring的ApplicationContext对象工具，可以用静态方法的方式获取spring容器中的bean
- * @author 1001234
+ * @author taoxuefeng
  * @date 2018/12/19
  */
 @Component

@@ -19,7 +19,7 @@
         <ul class="layui-nav layui-layout-right">
             <li class="layui-nav-item">
                 <a href="javascript:;">
-                    卢亮
+                    admin
                 </a>
                 <dl class="layui-nav-child">
                     <dd><a href="">基本资料</a></dd>

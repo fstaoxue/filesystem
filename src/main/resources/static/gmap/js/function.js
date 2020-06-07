@@ -1,5 +1,5 @@
 /**
- * Created by 1001234 on 2018/12/18.
+ * Created by taoxuefeng on 2018/12/18.
  */
 function addMarker(config){
     if(!(config.lat&&config.lng)){
