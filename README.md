@@ -9,7 +9,10 @@ demo练习项目
 
 
 服务地址：
-http://114.55.64.105:8082/filesystem/index
+http://114.55.64.105:8082/filesystem/index  
+
+nginx文件下载服务器  
+http://114.55.64.105:8081/
 
 
 上传代码样例说明  
