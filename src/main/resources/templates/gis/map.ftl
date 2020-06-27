@@ -21,7 +21,7 @@
                 return;
             }
             for(var i in points){
-                addMarker(points[i]);
+                addMarker(points[i],parseInt(i)+1);
             }
             var len=points.length-1;
             var lat=points[len].lat;
