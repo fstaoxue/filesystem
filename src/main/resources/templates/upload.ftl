@@ -78,7 +78,6 @@
             ,url: '${request.contextPath}/uploadForLocal'
             ,auto:false
             ,accept: 'file' //普通文件
-            ,exts: 'zip|rar|7z|ppt|pptx|xls|xlsx|doc|docx' //只允许上传压缩文件
             ,size:2048000
             ,bindAction: '#commit'
             ,done: function(data){
